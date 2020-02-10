@@ -174,8 +174,27 @@ logs:
   about: "When National Societies implement humanitarian and development programmes, there is significant requirement for procurement, transportation, warehousing and handling of relief supplies. The IFRC  responds to this need by providing Logistics and Procurement Services, Fleet Services, country Level logistics services through its Logistics Procurement and Supply Chain Management (LPSCM) set up."
   technical-framework: "IFRC Logistics Technical Competency Framework v 5 (003).pdf"
   role-profiles:
-    - name:
-      link:  
+    - name: "AirOps Officer"
+      link: "Rapid Response Profile Airops Officer .pdf"
+    - name: "Cash Logistics Officer"
+      link: "Rapid Response Profile Cash Logistics Officer.pdf"
+    - name: "Fleet Officer"
+      link: "Rapid Response Profile Fleet Officer.pdf"
+    - name: "Logistics ERU Team Leader"
+      link: "Rapid Response Profile Logistics ERU Team Leader.pdf"
+    - name: "Logistics Officer"
+      link: "Rapid Response Profile Logistics Officer .pdf"
+    - name: "Logistics Pipeline Management Officer"
+      link: "Rapid Response Profile Logistics Pipeline Management Officer.pdf"
+    - name: "Medical Logistics Officer"
+      link: "Rapid Response Profile Medical Logistics Officer .pdf"
+    - name: "Procurement Officer"
+      link: "Rapid Response Profile Procurement Officer .pdf"
+    - name: "Supply Chain Admin Officer"
+      link: "Rapid Response Profile Supply Chain Admin Officer .pdf"
+    - name: "Warehouse Officer"
+      link: "Rapid Response Profile Warehouse Officer .pdf"
+      
   resources:
     - name: "Logistics Standards Online"
       description: ""
