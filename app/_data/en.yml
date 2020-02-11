@@ -40,7 +40,7 @@ assessment:
   about: "The IFRC and it’s member National Societies has invested all along the years in needs assessment through the design and dissemination of guidelines, multiple learning and training activities, strengthening the network and lessons learned exercises. The needs assessment cell for emergency response, have been built based in the lesson learned from past operations. The assessment cell revised concept and approach have been promoted since 2019 and the National Societies network and IFRC capacity enhancement, should keep progressing from country to global level."
   technical-framework:
   role-profiles:
-    - name:
+    - name: "Assessment Coordinator"
       link:  
   resources:
     - name: Assessment and planning
@@ -64,7 +64,9 @@ cash:
   about: "CVA refers to all programs where cash transfers or vouchers for goods or services are directly provided to recipients. In the context of humanitarian assistance, the term is used to refer to  the provision of cash transfers or vouchers given to individuals, household or community recipients; not to governments or other state actors. This excludes remittances and microfinance in humanitarian interventions (although microfinance and money transfer institutions may be used for the actual delivery of cash)."
   technical-framework:
   role-profiles:
-    - name:
+    - name: "Cash and Voucher Assistance Coordinator"
+      link:  
+    - name: "Cash and Voucher Assistance Officer"
       link:  
   resources:
     - name: Cash in Emergencies Toolkit
@@ -79,7 +81,11 @@ cea:
   about:
   technical-framework:
   role-profiles:
-    - name:
+    - name: "CEA Coordinator"
+      link: "Rapid Response Profile CEA Coordinator.pdf"
+    - name: "CEA Officer (Accountability)"
+      link: "Rapid Response Profile CEA Officer (Accountability).pdf"
+    - name: "CEA Officer (Risk Communication and Community Engagement RCCE)"
       link: 
   resources:
     - name: "CEA" 
@@ -94,7 +100,15 @@ comms:
   about: "Together with its member National Societies, the IFRC has developed a network of skilled communications professionals to provide management, strategic and technical support and advice to emergency operations, from rapid onset disasters to protracted crises in various contexts. Through our global coordination system, our communications specialists are able to reach millions of people and diverse audiences globally using a wide-range of communication channels."
   technical-framework:
   role-profiles:
-    - name:
+    - name: "Audiovisal Officer - Videographer"
+      link: "Rapid Response Profile AV Officer - Videographer.pdf"
+    - name: "Audiovisal Officer - Photographer"
+      link: "Rapid Response Profile AV Officer - Photographer.pdf"
+    - name: "Communications Coordinator"
+      link:  
+    - name: "Communications Officer"
+      link:  
+    - name: "Communications Team Leader"
       link:  
   resources:
     - name:
@@ -106,7 +120,13 @@ health:
   about: "The IFRC and its member National Societies have a network of personnel, equipment and approaches to prevent, detect and respond to health needs in emergencies, including both clinical and public health Emergency Response Units. These health response tools prevent and treat illness and improve health and dignity for communities affected by slow- and sudden-onset disasters or outbreaks. Deployable health capacities can support inter-agency health coordination, overall strategic direction for health, implementation of community- and clinic-based health interventions, and provide critical lifesaving services to communities, in support of government health systems and services."
   technical-framework:
   role-profiles:
-    - name:
+    - name: "Health Coordinator"
+      link:  
+    - name: "Medical Coordinator"
+      link:  
+    - name: "Public Health Coordinator"
+      link:  
+    - name: "Staff Health Officer"
       link:  
   resources:
     - name:
@@ -118,7 +138,15 @@ im:
   about:
   technical-framework:
   role-profiles:
-    - name:
+    - name: "IM Coordinator"
+      link:  
+    - name: "IM Analyst"
+      link:  
+    - name: "IM Mapping and Visualisation Officer"
+      link:  
+    - name: "IM Primary Data Collection Officer"
+      link:  
+    - name: "IM Secondary Data Analysis Officer"
       link:  
   resources:
     - name:
@@ -126,11 +154,15 @@ im:
       link:
 
 itt:
-  title: "Information Technology & Telecoms (IT/T)"
+  title: "Information Technology & Telecom (IT/T)"
   about: "IT/Tel global surge services are mainly the IT/TEL ERU. This unit establishes local communication networks and links between the field and the secretariat, to ensure the smooth flow of information to assist operational coordination. The ERU has a range of technology such as satellite phones, high-frequency and very high frequency radio systems, depending on the geographical location and local legal situation."
   technical-framework:
   role-profiles:
-    - name:
+    - name: "IT & Telecom Coordinator"
+      link:  
+    - name: "IT & Telecom officer"
+      link:  
+    - name: "IT & Telecom ERU Team Leader"
       link:  
   resources:
     - name:
@@ -177,9 +209,9 @@ logs:
   technical-framework: "IFRC Logistics Technical Competency Framework v 5 (003).pdf"
   role-profiles:
     - name: "AirOps Officer"
-      link:
+      link: "Rapid Response Profile Airops Officer .pdf"
     - name: "Cash Logistics Officer"
-      link:
+      link: "Rapid Response Profile Cash Logistics Officer.pdf"
     - name: "Fleet Officer"
       link:
     - name: "Logistics Officer"
@@ -213,7 +245,15 @@ opsmanagement:
   about:
   technical-framework:
   role-profiles:
-    - name:
+    - name: "Operations Manager"
+      link:  
+    - name: "Deputy Operations Manager"
+      link:  
+    - name: "Field Coordinator"
+      link:  
+    - name: "Movement Coordination Officer"
+      link:  
+    - name: "Humanitarian Liaison Officer"
       link:  
   resources:
     - name:
@@ -225,7 +265,9 @@ pgi:
   about:
   technical-framework:
   role-profiles:
-    - name:
+    - name: "PGI Coordinator"
+      link:  
+    - name: "PGI Officer"
       link:  
   resources:
     - name: "Minimum standard commitments"
@@ -254,7 +296,21 @@ relief:
   about: "Through the support of the National Societies, the Relief ERU have set up unit to ensures that essential relief goods are delivered to the appropriate beneficiaries rapidly, effectively and in a well coordinated and dignified manner. This ERU carries out tasks related to beneficiary targeting, registration, distribution of relief items and monitoring and evaluation. It also covers emergency operational shelter and, where appropriate, may initiate alternative relief support, such as voucher and cash distributions."
   technical-framework:
   role-profiles:
-    - name:
+    - name: "Relief Coordinator"
+      link:  
+    - name: "Relief ERU Team Leader"
+      link:  
+    - name: "Relief Field Officer"
+      link:  
+    - name: "Relief IM Officer"
+      link:  
+    - name: "Relief/Cash Field Officer"
+      link:  
+    - name: "Relief/Finance Interface"
+      link:  
+    - name: "Relief/Logistics Officer"
+      link:  
+    - name: "Relief/Shelter Field Officer"
       link:  
   resources:
     - name:
@@ -266,7 +322,7 @@ security:
   about: "The IFRC provides security management support to any Movement partner requesting IFRC security support in operational contexts where the IFRC has the required capacity and the country office is deemed to be in compliance with the IFRC Minimum Security Requirements. The services are detailed within the 'IFRC security management support to Movement partners' procedures and are based upon 4 Levels of security coverage, depending on the modality of service requests. Movement partners can contact relevant IFRC Regional or Country offices for further information."
   technical-framework:
   role-profiles:
-    - name:
+    - name: "Security Coordinator"
       link:  
   resources:
     - name:
@@ -278,12 +334,35 @@ shelter:
   about: "The IFRC and its member National Societies have built a network of Shelter & Settlements  expertise to respond (individually or as a team) in case of need after a disaster on support to National Societies. This support can be provided to develop, coordinate and implement the Shelter component of the overall strategy of the Red Cross in response to the needs created by the impact of a disaster. But also to support the inter-agency coordination structure in place for the shelter sector to ensure that core services are provided to shelter agencies for an efficient humanitarian shelter response to the affected population on support of the government."
   technical-framework:
   role-profiles:
-    - name:
+    - name: "Shelter Coordinator"
+      link:  
+    - name: "Deputy Shelter Cluster Coordinator"
+      link:  
+    - name: "Hub Coordinator"
+      link:  
+    - name: "IM Shelter Coordinator"
+      link:  
+    - name: "Shelter Capacity Building Officer"
+      link:  
+    - name: "Shelter Cluster Coordinator"
+      link:  
+    - name: "Shelter Environnement Coordinator"
+      link:  
+    - name: "Shelter Recovery Coordinator"
+      link:  
+    - name: "Shelter Settlement Planning Officer"
+      link:  
+    - name: "Shelter Team Leader"
+      link:  
+    - name: "Shelter Technical Coordinator"
+      link:  
+    - name: "Shelter Technical Officer"
       link:  
   resources:
     - name:
       description:
       link:
+
 wash:
   title: "Water, sanitation, and hygiene (WASH)"
   about: "The IFRC and its member national societies have built a network of WASH expertise and equipment to respond to a range of disaster scale and context.  On average, we provide 1.8 million people per year with access to safe water, sanitation and hygiene promotion in emergency response globally."
