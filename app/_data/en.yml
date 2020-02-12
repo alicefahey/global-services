@@ -105,11 +105,11 @@ comms:
     - name: "Audiovisal Officer - Photographer"
       link: "Rapid Response Profile AV Officer - Photographer.pdf"
     - name: "Communications Coordinator"
-      link:  
+      link: "Rapid Response Profile Communications Coordinator.pdf"
     - name: "Communications Officer"
-      link:  
+      link: "Rapid Response Profile Communications Officer.pdf"
     - name: "Communications Team Leader"
-      link:  
+      link: "Rapid Response Profile Communications Team Leader.pdf"  
   resources:
     - name:
       description:
@@ -215,17 +215,17 @@ logs:
     - name: "Fleet Officer"
       link:
     - name: "Logistics Officer"
-      link:
+      link: "Rapid Response Profile Logistics Officer.pdf"
     - name: "Logistics Pharmacist"
       link:
     - name: "Logs ERU Team Leader"
-      link:
+      link: "Rapid Response Profile Logistics ERU Team Leader.pdf"
     - name: "Medical Logistics Officer"
-      link:
+      link: "Rapid Response Profile Medical Logistics Officer.pdf"
     - name: "Pipeline Management Officer"
-      link:
+      link: "Rapid Response Profile Logistics Pipeline Management Officer.pdf"
     - name: "Procurement Officer"
-      link:
+      link: "Rapid Response Profile Procurement Officer.pdf"
     - name: "Supply Chain Admin Officer"
       link:
     - name: "Supply Chain Coordinator"
@@ -266,9 +266,9 @@ pgi:
   technical-framework:
   role-profiles:
     - name: "PGI Coordinator"
-      link:  
+      link: "Rapid Response Profile Protection, Gender and Inclusion Coordinator.pdf"
     - name: "PGI Officer"
-      link:  
+      link: "Rapid Response Profile Protection, Gender and Inclusion Officer.pdf"
   resources:
     - name: "Minimum standard commitments"
       description: "Minimum standard commitments to gender and diversity in emergency programming."
