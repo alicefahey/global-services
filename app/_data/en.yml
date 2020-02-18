@@ -213,7 +213,7 @@ logs:
     - name: "Cash Logistics Officer"
       link: "Rapid Response Profile Cash Logistics Officer.pdf"
     - name: "Fleet Officer"
-      link:
+      link: "Rapid Response Profile Fleet Officer.pdf"
     - name: "Logistics Officer"
       link: "Rapid Response Profile Logistics Officer.pdf"
     - name: "Logistics Pharmacist"
@@ -227,11 +227,11 @@ logs:
     - name: "Procurement Officer"
       link: "Rapid Response Profile Procurement Officer.pdf"
     - name: "Supply Chain Admin Officer"
-      link:
+      link: "Rapid Response Profile Supply Chain Admin Officer.pdf"
     - name: "Supply Chain Coordinator"
-      link:
+      link: "Rapid Response Profile Supply Chain Coordinator.pdf"
     - name: "Warehouse Officer"
-      link:
+      link: "Rapid Response Profile Warehouse Officer.pdf"
   resources:
     - name: "Logistics Standards Online"
       description: ""
@@ -323,7 +323,7 @@ security:
   technical-framework:
   role-profiles:
     - name: "Security Coordinator"
-      link:  
+      link:  "Rapid Response Profile Security Coordinator.pdf"
   resources:
     - name:
       description:
