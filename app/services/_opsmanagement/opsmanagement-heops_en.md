@@ -11,9 +11,9 @@ pictures:
 
 ## Capacity
 
-The Head of Emergency Operations (HEOps) is the Federation’s main tool for providing high-level operational and strategic leadership and coordination in large-scale emergency operations.  Upon deployment, the HEOps takes up the lead in managing the IFRC Emergency Appeal operation and supporting the National Society in successful planning and implementation of appropriate response.
+The Head of Emergency Operations (HeOps) is the Federation’s main tool for providing high-level operational and strategic leadership and coordination in large-scale emergency operations.  Upon deployment, the HeOps takes up the lead in managing the IFRC Emergency Appeal operation and supporting the National Society in successful planning and implementation of appropriate response.
 
-The main responsibilities of the HEOPS are related to strategy and priorities definition, management of overall operation, , external coordination, Movement coordination, security management, transition to recovery, etc.
+The main responsibilities of the HeOps are related to strategy and priorities definition, management of overall operation, , external coordination, Movement coordination, security management, transition to recovery, etc.
 
 
 ## Emergency Services
@@ -45,8 +45,9 @@ Each HeOps is self-equipped with a laptop, smart phone
 
 ## Variation on configuration
 
-In larger scale operations, in complex environments, more than one HEOps could be deployed with different role-profiles.
+In larger scale operations, in complex environments, more than one HeOps could be deployed with different role-profiles.
 
 ## Additional resources
 
-- HEOps on [FedNet](https://fednet.ifrc.org/en/resources/disasters/disaster-and-crisis-mangement/disaster-response/surge-capacity/heops/)
+- HeOps on [FedNet](https://fednet.ifrc.org/en/resources/disasters/disaster-and-crisis-mangement/disaster-response/surge-capacity/heops/)
+- HeOps [short biographies]({% link /assets/docs/opsmanagement/HeOPS bios - 2020 02.pdf %})
