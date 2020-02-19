@@ -1,0 +1,10 @@
+---
+layout: default
+identifier: drr
+lang: en
+---
+{% assign sector = site.collections | where: "label", "drr" | first %}
+{% include sector-about.html %}
+{% include sector-rrp.html %}
+{% include sector-services.html %}
+{% include footer.html %}

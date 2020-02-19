@@ -47,12 +47,24 @@ collections:
       url: "/comms/"
     es: 
       url: "/es/comms/"
+  drr:
+    output: true
+    en: 
+      url: "/drr/"
+    es: 
+      url: "/es/drr/"
   health:
     output: true
     en: 
       url: "/health/"
     es: 
       url: "/es/salud/"
+  hr:
+    output: true
+    en: 
+      url: "/hr/"
+    es: 
+      url: "/es/hr/"
   im:
     output: true
     en: 
@@ -119,5 +131,10 @@ collections:
       url: "/wash/"
     es: 
       url: "/es/wash/"  
-
+  zz_other:
+    output: true
+    en: 
+      url: "/other/"
+    es: 
+      url: "/es/other/"
         

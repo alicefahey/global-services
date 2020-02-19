@@ -1,0 +1,10 @@
+---
+layout: default
+identifier: hr
+lang: en
+---
+{% assign sector = site.collections | where: "label", "hr" | first %}
+{% include sector-about.html %}
+{% include sector-rrp.html %}
+{% include sector-services.html %}
+{% include footer.html %}

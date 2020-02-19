@@ -1,10 +1,10 @@
 @font-face {
     font-family: "humanitarian";
-    src: url("../fonts/humanitarian.eot?cd91f1df04af9561205d7d10f81de4c8?#iefix") format("embedded-opentype"),
-url("../fonts/humanitarian.woff2?cd91f1df04af9561205d7d10f81de4c8") format("woff2"),
-url("../fonts/humanitarian.woff?cd91f1df04af9561205d7d10f81de4c8") format("woff"),
-url("../fonts/humanitarian.ttf?cd91f1df04af9561205d7d10f81de4c8") format("truetype"),
-url("../fonts/humanitarian.svg?cd91f1df04af9561205d7d10f81de4c8#humanitarian") format("svg");
+    src: url("../fonts/humanitarian.eot?7bb5dd8ba54560e294794fa500d1f51f?#iefix") format("embedded-opentype"),
+url("../fonts/humanitarian.woff2?7bb5dd8ba54560e294794fa500d1f51f") format("woff2"),
+url("../fonts/humanitarian.woff?7bb5dd8ba54560e294794fa500d1f51f") format("woff"),
+url("../fonts/humanitarian.ttf?7bb5dd8ba54560e294794fa500d1f51f") format("truetype"),
+url("../fonts/humanitarian.svg?7bb5dd8ba54560e294794fa500d1f51f#humanitarian") format("svg");
 }
 
 i[class^="humanitarian-"]:before, i[class*=" humanitarian-"]:before {
@@ -36,39 +36,48 @@ i[class^="humanitarian-"]:before, i[class*=" humanitarian-"]:before {
 .humanitarian-icon_comms:before {
     content: "\f106";
 }
-.humanitarian-icon_health:before {
+.humanitarian-icon_drr:before {
     content: "\f107";
 }
-.humanitarian-icon_im:before {
+.humanitarian-icon_health:before {
     content: "\f108";
 }
-.humanitarian-icon_itt:before {
+.humanitarian-icon_hr:before {
     content: "\f109";
 }
-.humanitarian-icon_livelihoods:before {
+.humanitarian-icon_im:before {
     content: "\f10a";
 }
-.humanitarian-icon_logs:before {
+.humanitarian-icon_itt:before {
     content: "\f10b";
 }
-.humanitarian-icon_opsmanagement:before {
+.humanitarian-icon_livelihoods:before {
     content: "\f10c";
 }
-.humanitarian-icon_pgi:before {
+.humanitarian-icon_logs:before {
     content: "\f10d";
 }
-.humanitarian-icon_pmer:before {
+.humanitarian-icon_opsmanagement:before {
     content: "\f10e";
 }
-.humanitarian-icon_relief:before {
+.humanitarian-icon_pgi:before {
     content: "\f10f";
 }
-.humanitarian-icon_security:before {
+.humanitarian-icon_pmer:before {
     content: "\f110";
 }
-.humanitarian-icon_shelter:before {
+.humanitarian-icon_relief:before {
     content: "\f111";
 }
-.humanitarian-icon_wash:before {
+.humanitarian-icon_security:before {
     content: "\f112";
+}
+.humanitarian-icon_shelter:before {
+    content: "\f113";
+}
+.humanitarian-icon_wash:before {
+    content: "\f114";
+}
+.humanitarian-icon_zz_other:before {
+    content: "\f115";
 }

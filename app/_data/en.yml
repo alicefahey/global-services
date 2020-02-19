@@ -29,6 +29,7 @@ about:
 sectors:
   additional-resources: "Additional resources"
   services: "Services"
+  services-other: "Additional services"
   rrp: "Rapid response personnel"
   rp-title: "Role profiles"
   rp-description: "Role profiles describe commonly deployed individuals."
@@ -115,6 +116,18 @@ comms:
       description:
       link:
 
+drr:
+  title: "Disaster Risk Reduction (DRR)"
+  about: 
+  technical-framework:
+  role-profiles:
+    - name:
+      link:  
+  resources:
+    - name:
+      description:
+      link:
+
 health:
   title: "Health"
   about: "The IFRC and its member National Societies have a network of personnel, equipment and approaches to prevent, detect and respond to health needs in emergencies, including both clinical and public health Emergency Response Units. These health response tools prevent and treat illness and improve health and dignity for communities affected by slow- and sudden-onset disasters or outbreaks. Deployable health capacities can support inter-agency health coordination, overall strategic direction for health, implementation of community- and clinic-based health interventions, and provide critical lifesaving services to communities, in support of government health systems and services."
@@ -127,6 +140,18 @@ health:
     - name: "Public Health Coordinator"
       link:  
     - name: "Staff Health Officer"
+      link:  
+  resources:
+    - name:
+      description:
+      link:
+
+hr:
+  title: "Human Resources (HR)"
+  about: 
+  technical-framework:
+  role-profiles:
+    - name:
       link:  
   resources:
     - name:
@@ -380,6 +405,10 @@ wash:
     - name: "Watsan Mission Assistant"
       description: "This is a website resource for field WASH practitioners."
       link: "http://watsanmissionassistant.org/"
+
+zz_other:
+  title: "Other"
+  about: "The Movement has expertise in a varierty of other areas important for a successful response. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 ##########
 ## LIST ##

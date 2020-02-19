@@ -46,8 +46,14 @@ cea:
 comms:
   title: "Communications"
 
+drr:
+  title: "Disaster Risk Reduction (DRR)"
+
 health:
   title: "Health"
+
+hr:
+  title: "Human Resources(HR)"
 
 im:
   title: "Information Management (IM)"
@@ -84,6 +90,9 @@ wash:
   about: ""
   rp-link: "#"
   framework-link: "#"
+
+zz_other:
+  title: "Other"
   
 ##########
 ## LIST ##
