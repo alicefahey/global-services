@@ -5,7 +5,6 @@
       <h2>{{ site.data[page.lang].sectors.services }}</h2>
     </div>
     {% assign services = sector.docs | sort: 'order' %}
-  {% if services > 0 %}
     {% for service in services %}
       {% if service.lang == page.lang %}
         <div class="col-12 col-sm-6 col-md-4">
@@ -22,10 +21,6 @@
         </div>
       {% endif %}
     {% endfor %}
-  {% else %}
-    <div class="col">({{ site.data[page.lang].coming-soon }})</div>
-  {% endif %}
-
   </div>
 
 </div>
