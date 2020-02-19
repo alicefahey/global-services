@@ -50,4 +50,6 @@ In larger scale operations, in complex environments, more than one HeOps could b
 ## Additional resources
 
 - HeOps on [FedNet](https://fednet.ifrc.org/en/resources/disasters/disaster-and-crisis-mangement/disaster-response/surge-capacity/heops/)
-- HeOps [short biographies]({% link /assets/docs/opsmanagement/HeOPS bios - 2020 02.pdf %})
+- HeOps [short biographies]({% link /assets/docs/opsmanagement/HeOps bios - 2020 02.pdf %})
+
+Details about the expectations for this specialty can be found in the [role profile]({% link /assets/docs/other/role profile.pdf %}).
