@@ -4,13 +4,15 @@
     <div class="col-12">
       <h2>{{ site.data[page.lang].sectors.rrp }}</h2> 
     </div>
-      
-    <div class="col-12">
-      <div class="card-deck">
-        {% if site.data[page.lang][sector.label].role-profiles.size > 0 and site.data[page.lang][sector.label].role-profiles[0].name %}
+  </div><!-- /row -->
+  <div class="row">
+      <div class="col-6">
+
+
         <div class="card">
           <div class="card-header">{{ site.data[page.lang].sectors.rp-title }}</div>
           <div class="list-group list-group-flush">
+          {% if site.data[page.lang][sector.label].role-profiles.size > 0 and site.data[page.lang][sector.label].role-profiles[0].name %}
             {% for profile in site.data[page.lang][sector.label].role-profiles %}
               {% if profile.link %}
                 <a href="{% render_depth %}assets/docs/{{sector.label}}/{{profile.link}}" class="list-group-item list-group-item-action">{{ profile.name }} &nbsp;<i class="far fa-file-pdf"></i></a>
@@ -18,9 +20,14 @@
                 <div class="list-group-item ">{{ profile.name }} <small>({{ site.data[page.lang].coming-soon }})</small></div>
               {% endif %}
             {% endfor %}
+          {% else %}
+            <div class="list-group-item "><small>({{ site.data[page.lang].coming-soon }})</small></div>
+          {% endif %}
           </div>
         </div>
-        {% endif %}
+
+      </div>
+      <div class="col-6">
         <div class="card">
           <div class="card-header">{{ site.data[page.lang].sectors.framework-title }}</div>
           <div class="card-body">
@@ -35,9 +42,8 @@
           </div>
         </div>
       </div>
-    </div>
-       
-  </div>
-</div>
+             
+  </div><!-- /row -->
+</div> <!-- /container -->
 
 <br>
