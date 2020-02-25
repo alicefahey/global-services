@@ -47,12 +47,6 @@ collections:
       url: "/comms/"
     es: 
       url: "/es/comms/"
-  drr:
-    output: true
-    en: 
-      url: "/drr/"
-    es: 
-      url: "/es/drr/"
   health:
     output: true
     en: 
