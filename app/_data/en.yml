@@ -43,6 +43,12 @@ assessment:
   role-profiles:
     - name: "Assessment Coordinator"
       link: "Rapid Response Profile Assessment Coordinator.pdf"
+    - name: "Humanitarian Information Analyst Officer"
+      link: "Rapid Response Profile Humanitarian Information Analyst Officer.pdf"  
+    - name: "Primary Data Collection Officer"
+      link: "Rapid Response Profile Primary Data Collection Officer.pdf"
+    - name: "Mapping and Visualization Officer"
+      link: "Rapid Response Profile Mapping and Visualization Officer.pdf" 
   resources:
     - name: Assessment and planning
       description: (requires FedNet login for access)
@@ -87,7 +93,7 @@ cea:
     - name: "CEA Officer (Accountability)"
       link: "Rapid Response Profile CEA Officer (Accountability).pdf"
     - name: "CEA Officer (Risk Communication and Community Engagement RCCE)"
-      link: 
+      link: "Rapid Response Profile CEA Officer (RCCE).pdf"
   resources:
     - name: "CEA" 
       description: "CEA on IFRC.org"
@@ -139,8 +145,8 @@ hr:
   about: 
   technical-framework:
   role-profiles:
-    - name:
-      link:  
+    - name: "Human Resources Coordinator"
+      link: "Rapid Response Profile Human Resources Coordinator.pdf"  
   resources:
     - name:
       description:
@@ -152,15 +158,13 @@ im:
   technical-framework:
   role-profiles:
     - name: "IM Coordinator"
-      link:  
-    - name: "IM Analyst"
-      link:  
-    - name: "IM Mapping and Visualisation Officer"
-      link:  
-    - name: "IM Primary Data Collection Officer"
-      link:  
-    - name: "IM Secondary Data Analysis Officer"
-      link:  
+      link: "Rapid Response Profile IM Coordinator.pdf"
+    - name: "Humanitarian Information Analyst Officer"
+      link: "Rapid Response Profile Humanitarian Information Analyst Officer.pdf"  
+    - name: "Primary Data Collection Officer"
+      link: "Rapid Response Profile Primary Data Collection Officer.pdf"
+    - name: "Mapping and Visualization Officer"
+      link: "Rapid Response Profile Mapping and Visualization Officer.pdf" 
   resources:
     - name:
       description:
@@ -171,11 +175,9 @@ itt:
   about: "IT/Tel global surge services are mainly the IT/TEL ERU. This unit establishes local communication networks and links between the field and the secretariat, to ensure the smooth flow of information to assist operational coordination. The ERU has a range of technology such as satellite phones, high-frequency and very high frequency radio systems, depending on the geographical location and local legal situation."
   role-profiles:
     - name: "IT & Telecom Coordinator"
-      link:  
+      link: "Rapid Response Profile IT and Telecom Coordinator.pdf"  
     - name: "IT & Telecom officer"
-      link:  
-    - name: "IT & Telecom ERU Team Leader"
-      link:  
+      link: "Rapid Response Profile IT and Telecom Officer.pdf"      
   resources:
     - name:
       description:
@@ -295,9 +297,9 @@ pmer:
   technical-framework:
   role-profiles:
     - name: "PMER Coordinator"
-      link:  
+      link: "Rapid Response Profile PMER Coordinator.pdf"  
     - name: "PMER Officer"
-      link:  
+      link: "Rapid Response Profile PMER Officer.pdf"    
   resources:
     - name:
       description:
@@ -318,7 +320,7 @@ relief:
       link:  
     - name: "Relief/Cash Field Officer"
       link:  
-    - name: "Relief/Finance Interface"
+    - name: "Relief/Finance Interface Officer"
       link:  
     - name: "Relief/Logistics Officer"
       link:  
