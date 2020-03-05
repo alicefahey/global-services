@@ -42,7 +42,7 @@ sectors:
 assessment:
   title: "Emergency Needs Assessment"
   about: "The IFRC and it’s member National Societies has invested all along the years in needs assessment through the design and dissemination of guidelines, multiple learning and training activities, strengthening the network and lessons learned exercises. The needs assessment cell for emergency response, have been built based in the lesson learned from past operations. The assessment cell revised concept and approach have been promoted since 2019 and the National Societies network and IFRC capacity enhancement, should keep progressing from country to global level."
-  technical-framework:
+  technical-framework: "Assessment technical competency framework March 2020.pdf"
   role-profiles:
     - name: "Assessment Coordinator"
       link: "Rapid Response Profile Assessment Coordinator.pdf"
@@ -72,7 +72,7 @@ basecamp:
 cash:
   title: "Cash and Vouchers Assistance (CVA)"  
   about: "CVA refers to all programs where cash transfers or vouchers for goods or services are directly provided to recipients. In the context of humanitarian assistance, the term is used to refer to  the provision of cash transfers or vouchers given to individuals, household or community recipients; not to governments or other state actors. This excludes remittances and microfinance in humanitarian interventions (although microfinance and money transfer institutions may be used for the actual delivery of cash)."
-  technical-framework:
+  technical-framework: "CVA Technical Competency Framework 11.19.pdf"
   role-profiles:
     - name: "Cash and Voucher Assistance Coordinator"
       link:  
@@ -89,7 +89,7 @@ cash:
 cea:
   title: "Community Engagement and Accountability (CEA)"
   about:
-  technical-framework:
+  technical-framework: "CEA surge competency framework March 2020.pdf"
   role-profiles:
     - name: "CEA Coordinator"
       link: "Rapid Response Profile CEA Coordinator.pdf"
@@ -108,18 +108,18 @@ cea:
 comms:
   title: "Communications"
   about: "Together with its member National Societies, the IFRC has developed a network of skilled communications professionals to provide management, strategic and technical support and advice to emergency operations, from rapid onset disasters to protracted crises in various contexts. Through our global coordination system, our communications specialists are able to reach millions of people and diverse audiences globally using a wide-range of communication channels."
-  technical-framework:
+  technical-framework: "Technical competencies for communications surge personnel March 2020.pdf"
   role-profiles:
+    - name: "Communications Coordinator"
+      link: "Rapid Response Profile Communications Coordinator.pdf"
+    - name: "Communications Team Leader"
+      link: "Rapid Response Profile Communications Team Leader.pdf" 
     - name: "Audiovisal Officer - Videographer"
       link: "Rapid Response Profile AV Officer - Videographer.pdf"
     - name: "Audiovisal Officer - Photographer"
       link: "Rapid Response Profile AV Officer - Photographer.pdf"
-    - name: "Communications Coordinator"
-      link: "Rapid Response Profile Communications Coordinator.pdf"
     - name: "Communications Officer"
       link: "Rapid Response Profile Communications Officer.pdf"
-    - name: "Communications Team Leader"
-      link: "Rapid Response Profile Communications Team Leader.pdf"  
   resources:
     - name:
       description:
@@ -211,8 +211,12 @@ livelihoods:
 logs:
   title: "Logistics"
   about: "When National Societies implement humanitarian and development programmes, there is significant requirement for procurement, transportation, warehousing and handling of relief supplies. The IFRC  responds to this need by providing Logistics and Procurement Services, Fleet Services, country Level logistics services through its Logistics Procurement and Supply Chain Management (LPSCM) set up."
-  technical-framework: "IFRC Logistics Technical Competency Framework v 5 (003).pdf"
+  technical-framework: "IFRC Logistics Technical Competency Framework v 5 March 2020.pdf"
   role-profiles:
+    - name: "Supply Chain Coordinator"
+      link: "Rapid Response Profile Supply Chain Coordinator.pdf"
+    - name: "Logs ERU Team Leader"
+      link: "Rapid Response Profile Logistics ERU Team Leader.pdf"
     - name: "AirOps Officer"
       link: "Rapid Response Profile Airops Officer .pdf"
     - name: "Cash Logistics Officer"
@@ -221,10 +225,6 @@ logs:
       link: "Rapid Response Profile Fleet Officer.pdf"
     - name: "Logistics Officer"
       link: "Rapid Response Profile Logistics Officer.pdf"
-    - name: "Logistics Pharmacist"
-      link:
-    - name: "Logs ERU Team Leader"
-      link: "Rapid Response Profile Logistics ERU Team Leader.pdf"
     - name: "Medical Logistics Officer"
       link: "Rapid Response Profile Medical Logistics Officer.pdf"
     - name: "Pipeline Management Officer"
@@ -233,8 +233,6 @@ logs:
       link: "Rapid Response Profile Procurement Officer.pdf"
     - name: "Supply Chain Admin Officer"
       link: "Rapid Response Profile Supply Chain Admin Officer .pdf"
-    - name: "Supply Chain Coordinator"
-      link: "Rapid Response Profile Supply Chain Coordinator.pdf"
     - name: "Warehouse Officer"
       link: "Rapid Response Profile Warehouse Officer.pdf"
   resources:
@@ -258,7 +256,7 @@ opsmanagement:
       link:  
     - name: "Movement Coordination Officer"
       link:  
-    - name: "Humanitarian Liaison Officer"
+    - name: "Humanitarian Liaison Coordinator"
       link:  
   resources:
     - name:
@@ -268,7 +266,7 @@ opsmanagement:
 pgi:
   title: "Protection, Gender and Inclusion (PGI)"
   about:
-  technical-framework:
+  technical-framework: "PGI Technical Competency Framework March 2020.pdf"
   role-profiles:
     - name: "PGI Coordinator"
       link: "Rapid Response Profile Protection, Gender and Inclusion Coordinator.pdf"
@@ -303,20 +301,6 @@ relief:
   role-profiles:
     - name: "Relief Coordinator"
       link:  
-    - name: "Relief ERU Team Leader"
-      link:  
-    - name: "Relief Field Officer"
-      link:  
-    - name: "Relief IM Officer"
-      link:  
-    - name: "Relief/Cash Field Officer"
-      link:  
-    - name: "Relief/Finance Interface Officer"
-      link:  
-    - name: "Relief/Logistics Officer"
-      link:  
-    - name: "Relief/Shelter Field Officer"
-      link:  
   resources:
     - name:
       description:
@@ -337,31 +321,33 @@ security:
 shelter:
   title: "Shelter" 
   about: "The IFRC and its member National Societies have built a network of Shelter & Settlements  expertise to respond (individually or as a team) in case of need after a disaster on support to National Societies. This support can be provided to develop, coordinate and implement the Shelter component of the overall strategy of the Red Cross in response to the needs created by the impact of a disaster. But also to support the inter-agency coordination structure in place for the shelter sector to ensure that core services are provided to shelter agencies for an efficient humanitarian shelter response to the affected population on support of the government."
-  technical-framework:
+  technical-framework: "Shelter and Settlements Technical Competency Framework March 2020.pdf"
   role-profiles:
-    - name: "Shelter Coordinator"
+    - name: "Shelter Programme Coordinator"
       link:  
-    - name: "Deputy Shelter Cluster Coordinator"
+    - name: "Shelter Programme Team Leader"
       link:  
-    - name: "Hub Coordinator"
+    - name: "Shelter Programme Technical Officer"
       link:  
-    - name: "IM Shelter Coordinator"
+    - name: "Shelter Programme Capacity Building Officer"
       link:  
     - name: "Shelter Capacity Building Officer"
       link:  
+    - name: "Shelter Programme Settlements Planning Officer"
+      link:  
     - name: "Shelter Cluster Coordinator"
       link:  
-    - name: "Shelter Environnement Coordinator"
+    - name: "Shelter Cluster Deputy Coordinator"
       link:  
-    - name: "Shelter Recovery Coordinator"
+    - name: "Shelter Cluster Hub Coordinator"
       link:  
-    - name: "Shelter Settlement Planning Officer"
+    - name: "Shelter Cluster Technical Coordinator"
       link:  
-    - name: "Shelter Team Leader"
+    - name: "Shelter Cluster Recovery Coordinator"
       link:  
-    - name: "Shelter Technical Coordinator"
+    - name: "Shelter Cluster Environment Coordinator"
       link:  
-    - name: "Shelter Technical Officer"
+    - name: "Shelter Cluster IM Coordinator"
       link:  
   resources:
     - name:
@@ -371,15 +357,11 @@ shelter:
 wash:
   title: "Water, sanitation, and hygiene (WASH)"
   about: "The IFRC and its member national societies have built a network of WASH expertise and equipment to respond to a range of disaster scale and context.  On average, we provide 1.8 million people per year with access to safe water, sanitation and hygiene promotion in emergency response globally."
-  technical-framework:
+  technical-framework: "IFRC WASH Competency Framework March 2020.pdf"
   role-profiles:
     - name: "WASH Coordinator"
       link: 
-    - name: "Sanitation Engineer"
-      link: 
     - name: "Hygiene Promotion Officer"
-      link: 
-    - name: "Water Technician"
       link: 
   resources:
     - name: "Watsan Mission Assistant"
