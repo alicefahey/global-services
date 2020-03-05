@@ -6,9 +6,8 @@
     </div>
   </div><!-- /row -->
   <div class="row">
+    
       <div class="col-6">
-
-
         <div class="card">
           <div class="card-header">{{ site.data[page.lang].sectors.rp-title }}</div>
           <div class="list-group list-group-flush">
@@ -25,22 +24,20 @@
           {% endif %}
           </div>
         </div>
-
       </div>
+      
       <div class="col-6">
+        {% if site.data[page.lang][sector.label].technical-framework %}
         <div class="card">
           <div class="card-header">{{ site.data[page.lang].sectors.framework-title }}</div>
           <div class="card-body">
             <p class="card-text">{{ site.data[page.lang].sectors.framework-description }}</p>
           </div>
           <div class="card-footer bg-transparent pt-0 border-top-0">
-            {% if site.data[page.lang][sector.label].technical-framework %}
               <a href="{% render_depth %}assets/docs/{{sector.label}}/{{ site.data[page.lang][sector.label].technical-framework }}" class="btn btn-outline-dark">{{ site.data[page.lang].learn-more }} &nbsp;<i class="far fa-file-pdf"></i></a>
-            {% else %}
-              <p><small>({{ site.data[page.lang].coming-soon }})</small></p>
-            {% endif %}
           </div>
         </div>
+        {% endif %}
       </div>
              
   </div><!-- /row -->

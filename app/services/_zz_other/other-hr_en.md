@@ -1,9 +1,9 @@
 ---
 order: 
 layout: service
-identifier: finance
+identifier: hr
 type: Rapid Response
-title: Finance
+title: Human Resources
 preview: "Lorem ipsum dolor sit amet"
 lang: en
 pictures:
@@ -15,4 +15,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Rapid response personnel role profile
 
-Details about the expectations for this specialty can be found in the [role profile]({% link /assets/docs/other/role profile.pdf %}).
+Details about the expectations for this specialty can be found in the [Human Resources Coordinator role profile]({% link /assets/docs/other/role profile.pdf %}).

@@ -53,12 +53,6 @@ collections:
       url: "/health/"
     es: 
       url: "/es/salud/"
-  hr:
-    output: true
-    en: 
-      url: "/hr/"
-    es: 
-      url: "/es/hr/"
   im:
     output: true
     en: 

@@ -19,6 +19,9 @@ coming-soon: "details coming soon"
 about:    
   title: "Servicios de respuesta global"
   description:  "Coming soon!"
+  coreframework-title: "Core Competency Framework for Surge Personnel"
+  coreframework-descrip: "The Core Competency framework for Surge Personnel is applicable to all Rapid Response personnel and is to be used as the underlying tool for an objective and transparent approach to recruitment, selection, performance management and learning and development."
+  coreframework-file: "SURGE CORE COMPETENCY FRAMEWORK-A4-Final-20191210.pdf"
   
 #############
 ## SECTORS ##
@@ -48,9 +51,6 @@ comms:
 
 health:
   title: "Health"
-
-hr:
-  title: "Human Resources(HR)"
 
 im:
   title: "Information Management (IM)"

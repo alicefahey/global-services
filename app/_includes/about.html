@@ -13,7 +13,8 @@
     <div class="col">
       {% for paragraph in site.data[page.lang].about.description %}
       <p class="lead">{{ paragraph }}</p>
-      {% endfor %}      
+      {% endfor %} 
+      <p class="lead">  <a href="{% link /assets/docs/{{ site.data[page.lang].about.coreframework-file }} %}">{{site.data[page.lang].about.coreframework-title}}</a> - {{site.data[page.lang].about.coreframework-descrip}} </p>
     </div>
   </div>
 
