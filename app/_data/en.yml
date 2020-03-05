@@ -131,11 +131,11 @@ health:
   technical-framework: "Health CF.pdf"
   role-profiles:
     - name: "Health Coordinator"
-      link:  
+      link: "Rapid Response Profile Health Coordinator.pdf"
     - name: "Medical Coordinator"
-      link:  
+      link: "Rapid Response Profile Medical Coordinator.pdf" 
     - name: "Public Health Coordinator"
-      link:  
+      link: "Rapid Response Profile Public Health in Emergencies Coordinator.pdf"
     - name: "Staff Health Officer"
       link:  
   resources:
