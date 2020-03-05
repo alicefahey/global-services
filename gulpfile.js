@@ -178,4 +178,4 @@ exports.serve = gulp.series(
 
 var environment = 'development';
 function setProd(cb) { environment = 'production'; cb(); }
-exports.prod = gulp.series(clean, setProd, jekyll, gulp.parallel(styles, javascripts, fontawesome, justifiedGalleryCss, lightgalleryFonts, lightgalleryCss, lightgalleryImg, getHumans), copyAssets);
+exports.prod = gulp.series(clean, setProd, jekyll, gulp.parallel(styles, javascripts, fontawesome, justifiedGalleryCss, lightgalleryFonts, lightgalleryCss, lightgalleryImg), copyAssets);
