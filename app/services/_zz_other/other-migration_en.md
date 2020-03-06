@@ -15,4 +15,4 @@ The IFRC and its member National Societies provide assistance and protection to 
 
 ## Rapid response personnel role profile
 
-Details about the expectations for this specialty can be found in the [role profile]({% link /assets/docs/other/role profile.pdf %}).
+Details about the expectations for this specialty can be found in the [Rapid Response Migration and Displacement Coordinator role profile]({% link /assets/docs/other/Rapid Response Profile Migration and Displacement Coordinator.pdf %}).
