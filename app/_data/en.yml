@@ -75,9 +75,9 @@ cash:
   technical-framework: "CVA Technical Competency Framework 11.19.pdf"
   role-profiles:
     - name: "Cash and Voucher Assistance Coordinator"
-      link:  
+      link: "Rapid Response Profile CVA Coordinator.pdf"
     - name: "Cash and Voucher Assistance Officer"
-      link:  
+      link: "Rapid Response Profile CVA Officer.pdf"
   resources:
     - name: Cash in Emergencies Toolkit
       description: "The toolkit should inform and guide the implementation of cash programming, to improve the quality at the different phases of the project cycle."
@@ -248,12 +248,14 @@ opsmanagement:
   about:
   technical-framework:
   role-profiles:
+    - name: "Head of Emergency Operations"
+      link: "Head of Emergency Operations Role Profile.pdf"
     - name: "Operations Manager"
-      link:  
+      link: "Rapid Response Profile Operations Manager.pdf"
     - name: "Deputy Operations Manager"
-      link:  
+      link: "Rapid Response Profile Deputy Operations Manager.pdf"
     - name: "Field Coordinator"
-      link:  
+      link: "Rapid Response Profile Field Coordinator.pdf"
     - name: "Movement Coordination Officer"
       link:  
     - name: "Humanitarian Liaison Coordinator"
@@ -324,11 +326,11 @@ shelter:
   technical-framework: "Shelter and Settlements Technical Competency Framework March 2020.pdf"
   role-profiles:
     - name: "Shelter Programme Coordinator"
-      link:  
+      link: "Rapid Response Profile Shelter Programme Coordinator.pdf"
     - name: "Shelter Programme Team Leader"
-      link:  
+      link: "Rapid Response Profile Shelter Programme Team Leader.pdf"  
     - name: "Shelter Programme Technical Officer"
-      link:  
+      link: "Rapid Response Profile Shelter Programme Technical Officer.pdf"
     - name: "Shelter Programme Capacity Building Officer"
       link:  
     - name: "Shelter Capacity Building Officer"
@@ -360,7 +362,7 @@ wash:
   technical-framework: "IFRC WASH Competency Framework March 2020.pdf"
   role-profiles:
     - name: "WASH Coordinator"
-      link: 
+      link: "Rapid Response Profile WASH Coordinator.pdf"
     - name: "Hygiene Promotion Officer"
       link: 
   resources:

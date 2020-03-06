@@ -4,14 +4,14 @@ layout: service
 identifier: hr
 type: Rapid Response
 title: Human Resources
-preview: "Lorem ipsum dolor sit amet"
+preview: "Providing HR services to emergency operations"
 lang: en
 pictures:
 ---
 
 ## Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+HR focuses on providing technical HR support and expertise to National Society and operational leadership. HR leads on HR assessments, HR planning, recruitment and staff wellbeing. The HR function is responsible for ensuring the use of HR policies and procedures that are adherent to IFRC standards and local legal contexts. HR also provides capacity strengthening in HR skills and processes to member National Societies involved in operational responses, where needed.
 
 ## Rapid response personnel role profile
 
