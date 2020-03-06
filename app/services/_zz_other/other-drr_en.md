@@ -4,14 +4,13 @@ layout: service
 identifier: nsd
 type: Rapid Response
 title: Disaster risk reduction (DRR)
-preview: "Lorem ipsum dolor sit amet"
+preview: "Strengthen resilience and mainstream vulnerability and risk reduction within emergency and recovery operations"
 lang: en
 pictures:
 ---
 
 ## Overview
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As part of our efforts to strengthen resilience and mainstream vulnerability and risk reduction within emergency and recovery operations, the  Disaster Risk Reduction  surge personnel available to be deployed alongside recovery surge personnel to  ensure the long term action are taking into consideration and suitably addressed and included in assessment, planning and programming, where appropriate to no regenerate new risk and take active measure to increase resilience at community level.
 
 ## Rapid response personnel role profile
 
