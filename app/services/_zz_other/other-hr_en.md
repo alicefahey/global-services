@@ -15,4 +15,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Rapid response personnel role profile
 
-Details about the expectations for this specialty can be found in the [Human Resources Coordinator role profile]({% link /assets/docs/other/role profile.pdf %}).
+Details about the expectations for this specialty can be found in the [Rapid Response Human Resources Coordinator role profile]({% link /assets/docs/other/Rapid Response Profile Human Resources Coordinator.pdf %}).
