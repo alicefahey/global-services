@@ -4,14 +4,14 @@ layout: service
 identifier: civmil
 type: Rapid Response
 title: Civil Military Relations
-preview: "Lorem ipsum dolor sit amet"
+preview: "Disaster responses increasingly have a domestic and/or international military/police component that interact with RCRC Movement components responding on the ground."
 lang: en
 pictures:
 ---
 
 ## Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Disaster responses increasingly have a domestic and/or international military/police component that interact with RCRC Movement components responding on the ground. This necessitates a clear and common approach to Civil-Military Relations (CMR) by Red Cross Red Crescent (RCRC) Movement components to ensure a principled and effective response. Where the level of interaction with armed actors is (or can be expected to be) high, then the deployment of a CMR Coordinator is recommended. 
 
 ## Rapid response personnel role profile
 
