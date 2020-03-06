@@ -4,14 +4,14 @@ layout: service
 identifier: nsd
 type: Rapid Response
 title: Disaster risk reduction (DRR)
-preview: "Lorem ipsum dolor sit amet"
+preview: "Raise awareness and funding for emergency operations but also to strengthen the fundraising capacity of National Societies during emergencies and their collective accountability and donor stewardship."
 lang: en
 pictures:
 ---
 
 ## Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In recent years, there has been shift in the type of disasters that the RCRC Movement is responding to. There are more protracted crises, including silent and forgotten disasters. Of equal concern are smaller and medium sized disasters that constitute most of the events globally. Patterns of climate change are contributing to increased vulnerability and risk, not only in times of disaster but in relation to already existing issues including health and nutrition, food security, access to safe water and water-borne diseases, protection, gender and inclusion, among others. As a consequence, additional funding is required to meet the increased needs. Additional dedicated resources are necessary to not only raise awareness and funding for emergency operations but also to strengthen the fundraising capacity of National Societies during emergencies and their collective accountability and donor stewardship.
 
 ## Rapid response personnel role profile
 
