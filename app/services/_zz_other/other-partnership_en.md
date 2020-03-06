@@ -15,4 +15,7 @@ The IFRC provides both strategic and technical support in partnerships and resou
 
 ## Rapid response personnel role profile
 
-Details about the expectations for this specialty can be found in the [Rapid Response Partnerhsip and Resource Development Officer role profile]({% link /assets/docs/other/Rapid Response Profile Partnerships and Resource Development Officer.pdf %}).
+Details about the expectations for this specialty can be found in the role profiles:
+
+- [Rapid Response Partnerships and Resource Development Officer role profile]({% link /assets/docs/other/Rapid Response Profile Partnerships and Resource Development Officer.pdf %}).
+- [Rapid Response PRD Officer National Society Support role profile]({% link /assets/docs/other/Rapid Response Profile PRD Officer National Society Support.pdf %}).
