@@ -15,4 +15,4 @@ HR focuses on providing technical HR support and expertise to National Society a
 
 ## Rapid response personnel role profile
 
-Details about the expectations for this specialty can be found in the [Human Resources Coordinator role profile]({% link /assets/docs/other/role profile.pdf %}).
+Details about the expectations for this specialty can be found in the [Rapid Response Human Resources Coordinator role profile]({% link /assets/docs/other/Rapid Response Profile Human Resources Coordinator.pdf %}).
