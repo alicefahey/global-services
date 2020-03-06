@@ -4,7 +4,7 @@ layout: service
 identifier: hr
 type: Rapid Response
 title: Human Resources
-preview: "Providing HR services to emergency operations"
+preview: "Providing HR services to emergency operations."
 lang: en
 pictures:
 ---

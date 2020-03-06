@@ -4,14 +4,14 @@ layout: service
 identifier: civmil
 type: Rapid Response
 title: Civil Military Relations
-preview: "Lorem ipsum dolor sit amet"
+preview: "Military and civil defence assets engaged in response should be well regulated and coordinated with humanitarian organisations who share the same space."
 lang: en
 pictures:
 ---
 
 ## Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Military and civil defence assets are often the first capabilities engaged in a domestic response, as well as offered by neighbouring states, and can make a valuable contribution in responding to natural disasters. However, the modus operandi of these mechanisms should be well regulated and coordinated with humanitarian organisations who share the same space.
 
 ## Rapid response personnel role profile
 
