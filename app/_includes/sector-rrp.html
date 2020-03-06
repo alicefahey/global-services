@@ -34,7 +34,11 @@
             <p class="card-text">{{ site.data[page.lang].sectors.framework-description }}</p>
           </div>
           <div class="card-footer bg-transparent pt-0 border-top-0">
-              <a href="{% render_depth %}assets/docs/{{sector.label}}/{{ site.data[page.lang][sector.label].technical-framework }}" class="btn btn-outline-dark">{{ site.data[page.lang].learn-more }} &nbsp;<i class="far fa-file-pdf"></i></a>
+            
+            {% for file in site.data[page.lang][sector.label].technical-framework %}
+            
+              <a href="{% render_depth %}assets/docs/{{sector.label}}/{{ file.link }}" class="btn btn-outline-dark">{{ file.name }} &nbsp;<i class="far fa-file-pdf"></i></a>
+            {% endfor %}
           </div>
         </div>
         {% endif %}
