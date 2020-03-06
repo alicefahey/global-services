@@ -17,4 +17,7 @@ The development support provided to an individual National Society will depend o
 
 ## Rapid response personnel role profile
 
-Details about the expectations for this specialty can be found in the [Rapid Response Profile NS Development in Emergencnies Coordinator role profile]({% link /assets/docs/other/Rapid Response Profile NS Development in Emergencies Coordinator.pdf %}).
+Details about the expectations for this specialty can be found in the role profiles:
+
+- [Rapid Response NS Development in Emergencies Coordinator role profile]({% link /assets/docs/other/Rapid Response Profile NS Development in Emergencies Coordinator.pdf %}).
+- [Rapid Response Volunteer Management in Emergencies Officer role profile]({% link /assets/docs/other/Rapid Response Profile Volunteer Management in Emergencies Officer.pdf %}).
