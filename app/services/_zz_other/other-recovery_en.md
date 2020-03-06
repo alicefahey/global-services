@@ -15,11 +15,11 @@ Supporting National Society and Operations Management to ensure that recovery is
 
 ## Technical competency framework
 
-Tiered compentencies describing the knowledge and skills expected of personnel in this sector cam be found in the [Recovery technical competency framework]({% link /assets/docs/other/Rapid Response Profile Recovery Coordinator.pdf %}).
+Tiered compentencies describing the knowledge and skills expected of personnel in this sector cam be found in the [Recovery technical competency framework]({% link /assets/docs/other/Recovery Technical Competency Framework March 2020.pdf %}).
 
 ## Rapid response personnel role profile
 
 Details about the expectations for this specialty can be found in the role profiles:
 
 - [Rapid Response Recovery Coordinator role profile]({% link /assets/docs/other/Rapid Response Profile Recovery Coordinator.pdf %}).
-- [Rapid Response Recovery Coordinator role profile]({% link /assets/docs/other/Rapid Response Profile Recovery Coordinator.pdf %}).
+- [Rapid Response Early Recovery Officer role profile]({% link /assets/docs/other/Rapid Response Profile Early Recovery Officer.pdf %}).
