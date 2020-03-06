@@ -4,14 +4,14 @@ layout: service
 identifier: idrl
 type: Rapid Response
 title: International Disaster Response Law
-preview: "Lorem ipsum dolor sit amet"
+preview: "Addressing legal and regulatory issues that commonly arise concerning international assistance following disasters."
 lang: en
 pictures:
 ---
 
 ## Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Addressing legal and regulatory issues that commonly arise concerning international assistance following disasters.
 
 ## Rapid response personnel role profile
 
