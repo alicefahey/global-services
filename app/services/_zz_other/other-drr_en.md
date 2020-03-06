@@ -4,14 +4,14 @@ layout: service
 identifier: nsd
 type: Rapid Response
 title: Disaster risk reduction (DRR)
-preview: "The concept and practice of reducing disaster risks through systemic efforts."
+preview: "Strengthen resilience and mainstream vulnerability and risk reduction within emergency and recovery operations"
 lang: en
 pictures:
 ---
 
 ## Overview
 
-Disaster risk reduction is the concept and practice of reducing disaster risks through systemic efforts. It therefore encompasses a broad range of activities – from ensuring that legislative and policy approaches reflect known hazards, to community-based initiatives and technical solutions such as early warning systems.
+As part of our efforts to strengthen resilience and mainstream vulnerability and risk reduction within emergency and recovery operations, the Disaster Risk Reduction surge personnel available to be deployed alongside recovery surge personnel to ensure the long term action are taking into consideration and suitably addressed and included in assessment, planning and programming, where appropriate to no regenerate new risk and take active measure to increase resilience at community level.
 
 ## Rapid response personnel role profile
 
