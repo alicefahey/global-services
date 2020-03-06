@@ -15,4 +15,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Rapid response personnel role profile
 
-Details about the expectations for this specialty can be found in the [Rapid Response Partnerhsip and Resource Development Officer role profile]({% link /assets/docs/other/Rapid Response Profile Partnerhsip and Resource Development Officer.pdf %}).
+Details about the expectations for this specialty can be found in the [Rapid Response Partnerhsip and Resource Development Officer role profile]({% link /assets/docs/other/Rapid Response Profile Partnerships and Resource Development Officer.pdf %}).
