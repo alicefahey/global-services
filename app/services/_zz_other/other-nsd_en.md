@@ -4,15 +4,17 @@ layout: service
 identifier: nsd
 type: Rapid Response
 title: National Society Development
-preview: "Lorem ipsum dolor sit amet"
+preview: "The development support provided to an individual National Society will depend on its current situation and priorities."
 lang: en
 pictures:
 ---
 
 ## Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Strengthening of National Societies is one of the Federation’s and particularly the IFRC Secretariat’s fundamental tasks. National Societies work in a diverse range of contexts and cultures, face many and differing challenges, and also vary in their capability. The IFRC Secretariat and National Societies partner with and provide support to individual National Societies in their efforts to develop their organizational capacity and effectiveness.
+
+The development support provided to an individual National Society will depend on its current situation and priorities. National Societies may wish to develop their auxiliary role, strategy, governance and accountability; strengthen areas such as financial management, communications, fundraising; increase volunteer engagement; improve external relations; or ramp up their preparedness for responding to emergencies or improve the planning and execution of programmes and services they provide.
 
 ## Rapid response personnel role profile
 
-Details about the expectations for this specialty can be found in the [role profile]({% link /assets/docs/other/role profile.pdf %}).
+Details about the expectations for this specialty can be found in the [Rapid Response Profile NS Development in Emergencnies Coordinator role profile]({% link /assets/docs/other/Rapid Response Profile NS Development in Emergencies Coordinator.pdf %}).
