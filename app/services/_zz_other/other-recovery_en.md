@@ -15,7 +15,7 @@ Supporting National Society and Operations Management to ensure that recovery is
 
 ## Technical competency framework
 
-Tiered compentencies describing the knowledge and skills expected of personnel in this sector cam be found in the [Shelter technical competency framework]({% link /assets/docs/other/Rapid Response Profile Recovery Coordinator.pdf %}).
+Tiered compentencies describing the knowledge and skills expected of personnel in this sector cam be found in the [Recovery technical competency framework]({% link /assets/docs/other/Rapid Response Profile Recovery Coordinator.pdf %}).
 
 ## Rapid response personnel role profile
 
