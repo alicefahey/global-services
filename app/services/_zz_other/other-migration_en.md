@@ -4,14 +4,14 @@ layout: service
 identifier: migration
 type: Rapid Response
 title: Migration
-preview: "Lorem ipsum dolor sit amet"
+preview: "Providing assistance and protection to migrants, the host community, as well as those left behind."
 lang: en
 pictures:
 ---
 
 ## Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The IFRC and its member National Societies provide assistance and protection to migrants, irrespective of status, the host community, as well as those left behind. Collectively we have experience responding to large scale population movements such as those experienced in Cox’s Bazar, the Caravan’s in the Americas or the European Migrant Crisis. In addition, National Red Cross Red Crescent Societies support local communities displaced by disaster, conflict and climate change.
 
 ## Rapid response personnel role profile
 
