@@ -7,6 +7,9 @@ title: Community Case Management of Cholera (CCMC)
 preview: ""
 lang: en
 pictures:
+- file: /health/health-ccmc_01.jpg
+  thumb: /health/health-ccmc_01_thumb.jpg
+  caption: "ORP in Somaliland"
 ---
 
 ##### _**(To be ready by end of 2020)**_

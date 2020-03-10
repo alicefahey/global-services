@@ -7,9 +7,6 @@ title: Community Case Management of Malnutrition (CCMM)
 preview: ""
 lang: en
 pictures:
-- file: /health/health-ccmm_01.jpg
-  thumb: /health/health-ccmm_01_thumb.jpg
-  caption: "ORP in Somaliland"
 ---
 
 ##### _**(Under development for 2021)**_
