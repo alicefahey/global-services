@@ -150,6 +150,14 @@ health:
       link: "Rapid Response Profile Public Health in Emergencies Coordinator.pdf"
     - name: "Staff Health Officer"
       link:  
+    - name: "Mental Health and Psychosocial Support Coordinator"
+      link: "Rapid Response Profile Mental Health and Psychosocial Support Coordinator.pdf"
+    - name: "Mental Health and Psychosocial Support Officer"
+      link: "Rapid Response Profile Mental Health and Psychosocial Officer.pdf"
+    - name: "Mental Health and Psychosocial Support Community Outreach Officer"
+      link: "Rapid Response Profile MHPSS Community Outreach Officer.pdf"
+    - name: "ERU Health facility Mental Health and Psychosocial Support Officer"
+      link: "Rapid Response Profile ERU health facility MHPSS Officer.pdf"      
   resources:
     - name:
       description:
