@@ -79,9 +79,9 @@ cash:
       link: "CVA Technical Competency Framework 2019-11.pdf"
   role-profiles:
     - name: "Cash and Voucher Assistance Coordinator"
-      link: ""
+      link: 
     - name: "Cash and Voucher Assistance Officer"
-      link: ""
+      link: 
   resources:
     - name: Cash in Emergencies Toolkit
       description: "The toolkit should inform and guide the implementation of cash programming, to improve the quality at the different phases of the project cycle."
