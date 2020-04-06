@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "build": "gulp",
-    "install": "bundle install --path bundle/cache",
+    "install": "bundle install",
     "postinstall": "[ -f _config-dev.yml ] || echo 'domain: http://localhost:3000\npath_prefix:' > _config-dev.yml",
     "serve": "gulp serve",
     "test": "echo \"Error: no test specified\" && exit 1"
