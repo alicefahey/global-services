@@ -15,7 +15,7 @@ Supporting National Society and Operations Management to ensure that recovery is
 
 ## Technical competency framework
 
-Tiered compentencies describing the knowledge and skills expected of personnel in this sector cam be found in the [Recovery technical competency framework]({% link /assets/docs/other/Recovery Technical Competency Framework March 2020.pdf %}).
+Tiered competencies describing the knowledge and skills expected of personnel in this sector cam be found in the [Recovery technical competency framework]({% link /assets/docs/other/Recovery Technical Competency Framework March 2020.pdf %}).
 
 ## Rapid response personnel role profile
 
