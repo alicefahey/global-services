@@ -15,4 +15,7 @@ Preparedness for Effective Response (PER) is a cyclical approach designed to emp
 
 ## Rapid response personnel role profile
 
-Details about the expectations for this specialty can be found in the [role profile]({% link /assets/docs/other/role profile.pdf %}).
+Details about the expectations for this specialty can be found in the role profiles:
+
+- [Rapid Response Preparedness for Effective Response Coordinator role profile]({% link /assets/docs/other/Rapid Response Profile Preparedness for Effective Response Coordinator.pdf %}).
+- [Rapid Response National Society Preparedness for Effective Response Officer role profile]({% link /assets/docs/other/Rapid Response Profile National Society Preparedness for Effective Response Officer.pdf %}).
