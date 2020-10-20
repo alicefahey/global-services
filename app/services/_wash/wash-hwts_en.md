@@ -11,6 +11,8 @@ pictures:
 
 ## Capacity
 
+_(to be operational by mid-2021)_
+
 The Household Water Treatment and Safe Storage (HWTS) Module is a lighter configuration of a water supply Unit, with the capacity to design and implement a comprehensive household water program, including hygiene promotion and safe storage components.
 
 The module is deployed to support host National Society in the establishment of a household water treatment programme in emergency, including:

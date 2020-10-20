@@ -11,6 +11,8 @@ pictures:
 
 ## Capacity
 
+_(to be operational by end of 2020)_
+
 To support host National Societies to assess and deliver water supply to populations affected by disasters/crisis through rehabilitation and, if necessary, establishment of new water supply infrastructure. The Water Supply Rehabilitation (WSR) ERU consists of a small team of specialised delegates with limited equipment, able to support a host National Society to rapidly assess the state of the existing water system and improve the system. The WSR can be deployed for up to 4 months and able to transition into longer term recovery though earlier withdrawal remains an option. The interventions of the WSR ERU aims with shorter-term interventions to improve existing water systems serving past the immediate emergency phase. The number of people that can be served by the WSR is not predefined and depends on the capacity and status of the existing water system but is primarily intended for larger scale operations. 
 
 ## Emergency Services
