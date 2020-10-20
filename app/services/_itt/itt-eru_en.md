@@ -25,7 +25,7 @@ Rapid deployment to an affected area with destroyed, damaged, or insufficient co
 
 **Total:** Generally 2-6 people.
 
-**Compostion:** 1 team leader and technicians with context-appropriate skill sets.
+**Composition:** 1 team leader and technicians with context-appropriate skill sets.
 
 ## Standard components
 

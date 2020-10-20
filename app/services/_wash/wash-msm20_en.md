@@ -52,7 +52,7 @@ Integrated response through:
 
 **Total:** 5-6 people.
 
-**Compostion:** Team Leader, 1-2 Sanitation Engineer, 1 Hygiene promoter, 1 Logistic/Admin/Finance.
+**Composition:** Team Leader, 1-2 Sanitation Engineer, 1 Hygiene promoter, 1 Logistic/Admin/Finance.
 
 _In addition to the above team, local staff is normally contracted to assist in the construction of the sanitation facilities (masons, builders supervisors, etc)._
 

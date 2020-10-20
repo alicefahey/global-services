@@ -48,7 +48,7 @@ Water treatment and distribution for 40,000 people for a maximum of 4 months acc
 
 **Total:** 4-6 people.
 
-**Compostion:** Team Leader, 1-2 WASH or Chemical Engineer, 1 Technician/Plumber, 1 Logistic/Admin/Finance.
+**Composition:** Team Leader, 1-2 WASH or Chemical Engineer, 1 Technician/Plumber, 1 Logistic/Admin/Finance.
 
 _In addition to the above team, local staff is normally contracted to assist in other areas such as security, set up of the water treatment camps, maintenance, truck drivers, etc._
 

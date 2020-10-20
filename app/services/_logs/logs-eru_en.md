@@ -59,7 +59,7 @@ The Logistic ERU can provide the following services:
 
 **Total:** 4-7 people.
 
-**Compostion:** Team Leader, 1-2 Supply Chain Administration delegates, AirOps delegate, 1 - 3 Warehouse/Transport delegates.
+**Composition:** Team Leader, 1-2 Supply Chain Administration delegates, AirOps delegate, 1 - 3 Warehouse/Transport delegates.
 
 ## Standard modules/components
 

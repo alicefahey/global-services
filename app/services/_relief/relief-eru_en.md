@@ -65,7 +65,7 @@ Flexibility to adapt to:
 
 **Total:** 4+ people.
 
-**Compostion:** 1 team leader, 1 or more field officers, 1 logistic/relief interface officer, 1 finance/relief interface officer, and 1 Relief Information Management (IM) officer (for large operations only).
+**Composition:** 1 team leader, 1 or more field officers, 1 logistic/relief interface officer, 1 finance/relief interface officer, and 1 Relief Information Management (IM) officer (for large operations only).
 
 _All field officers could support the implementation of the relief activities cycle with in kind distribution, but specialists in CBI or emergency shelter could also be mobilized._
 
