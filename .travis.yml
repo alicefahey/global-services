@@ -3,7 +3,7 @@ language: ruby
 # Travis CI uses the .ruby-version file in the root of the repository
 env:
   global:
-  - TRAVIS_NODE_VERSION="v12.14.0"
+  - TRAVIS_NODE_VERSION="v12.19.0"
   - GH_REF=github.com/IFRCGo/global-services.git
   - DEPLOY_BRANCH=publish
   matrix:
